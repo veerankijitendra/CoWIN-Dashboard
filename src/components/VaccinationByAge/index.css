@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.pie-chart-heading {
+  color: #cbd5e1;
+  align-self: flex-start;
+}
+.pie-chart {
+  background-color: #1c1c2b;
+  padding: 16px;
+  min-height: 600px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 24px;
+}
